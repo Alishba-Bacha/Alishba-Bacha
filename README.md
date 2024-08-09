@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="center">🔭 I’m currently working on Pashtun_App<br><br>🌱 I’m currently learning Deep Learning<br><br>💬 Ask me about Frontend Development</h6>
+<h6 align="center">🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning DNN<br><br>💬 Ask me about Frontend Development</h6>
 
 ###
 
