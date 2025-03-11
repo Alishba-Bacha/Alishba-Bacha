@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="center">🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning DNN<br><br>💬 Ask me about Frontend Development</h6>
+<h6 align="center">🔭 I’m currently researching on quantum computing<br><br>🌱 I’m currently exploring embeded systems<br><br>💬 Ask me about AI/ML</h6>
 
 ###
 
