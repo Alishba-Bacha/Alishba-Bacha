@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm a proactive Robotics Engineer.</h3>
+<h3 align="center">Hi 👋, I'm a proactive AI Engineer.</h3>
 
 ###
 
