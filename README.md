@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="center">🔭 I’m currently researching on quantum computing<br><br>🌱 I’m currently exploring embeded systems<br><br>💬 Ask me about AI/ML</h6>
+<h6 align="center">🔭 I’m intrested in research on quantum computing<br><br>🌱 I’m currently exploring ROS2<br><br>💬 Ask me about AI/ML</h6>
 
 ###
 
